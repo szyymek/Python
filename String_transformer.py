@@ -15,6 +15,3 @@ def string_transformer(s):
             result +=letter
     
     return result
-
-
-#to jest rozwiązanie
