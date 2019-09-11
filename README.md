@@ -10,3 +10,4 @@
 - [Add commas to number](https://github.com/szyymek/Python-scripts/blob/master/Add_commas) - task is to convert a given number into a string with commas added for easier readability. The number should be rounded to 3 decimal places and the commas should be added at intervals of three digits before the decimal point. There does not need to be a comma at the end of the number. Example - commas(-1000000.123) == "-1,000,000.123" . Excersise from codewars
 - [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
 - [Levenstein](https://github.com/szyymek/Python-scripts/blob/master/Levenstein.py) - check similarity of 2 strings using Levenstein distance
+- [Greatest common divisor](https://github.com/szyymek/Python-scripts/blob/master/Greatest_common_divisor.py) - find greatest common divisor using Euclidean Algorithm http://en.wikipedia.org/wiki/Euclidean_algorithm
