@@ -1,5 +1,5 @@
-# Python-codewars
-**My solutions of codewars excersises**
+# Python
+**My python scripts**
 
-- [String transformer](https://github.com/szyymek/Python-codewars/blob/master/String_transformer.py) - Given a string, return a new string that has transformed based on the input - rules: change case of every character, ie. lower case to upper case, upper case to lower case, reverse the order of words from the input, handle multiple spaces
-- inny
+- [String transformer](https://github.com/szyymek/Python-codewars/blob/master/String_transformer.py) - Given a string, return a new string that has transformed based on the input - rules: change case of every character, ie. lower case to upper case, upper case to lower case, reverse the order of words from the input, handle multiple spaces. Excersise from codewars
+- [Exes_and_Ohs](https://github.com/szyymek/Python-scripts/blob/master/Exes_and_Ohs) - Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char. Excersise from codewars
