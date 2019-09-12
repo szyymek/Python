@@ -1,11 +1,6 @@
 # Python Scripts
 
 
-- [Send an e-mail](https://github.com/szyymek/Python-scripts/blob/master/send_email.py) - send an e-mail from outlook mailbox, with attachment
-
-
-
-
 **Sorting**
 
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
@@ -44,3 +39,7 @@
 **Working with files**
 
 - [Count words](https://github.com/szyymek/Python-scripts/blob/master/Count_words.py) - takes words from column in one excel file and counts occurrences of them in another file. Final file with numbers of occurrences is saved on disc.
+
+**Networking**
+
+- [Send an e-mail](https://github.com/szyymek/Python-scripts/blob/master/send_email.py) - send an e-mail from outlook mailbox, with attachment
