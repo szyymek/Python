@@ -23,3 +23,6 @@
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
 - [Bubble sort optimized](https://github.com/szyymek/Python-scripts/blob/master/bubble_sort.py)
 - [numpy.sort() function](https://github.com/szyymek/Python-scripts/blob/master/np-Sort.py) - generates list of random ints and using time module checks the time of executions of nupy.sort() with different kind of algorithms - mergesort, quicksort and heapsort
+
+**Recursion**
+- []()
