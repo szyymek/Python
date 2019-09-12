@@ -28,3 +28,4 @@
 - [Fibonacci number](https://github.com/szyymek/Python-scripts/blob/master/fibonacci.py)
 - [Recursive exponent](https://github.com/szyymek/Python-scripts/blob/master/recursive_exponent.py)
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
+- [Factorial](https://github.com/szyymek/Python-scripts/blob/master/factorial.py)
