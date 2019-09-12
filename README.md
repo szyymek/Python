@@ -33,4 +33,8 @@
 - [Strip comments](https://github.com/szyymek/Python-scripts/blob/master/Strip_comments.py) - it strips all text that follows any of a set of comment markers passed in. Any whitespace at the end of the line should also be stripped out. Example: string = ("apples, pears # and bananas\ngrapes\nbananas !apples",markers =  ["#", "!"]) ; result should == "apples, pears\ngrapes\nbananas".
 
 **Cryptography**
+
 - [Decode morse code](https://github.com/szyymek/Python-scripts/blob/master/Decode_the_Morse_code.py)
+
+**Math**
+- [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
