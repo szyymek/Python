@@ -12,7 +12,6 @@
 - [Levenstein](https://github.com/szyymek/Python-scripts/blob/master/Levenstein.py) - check similarity of 2 strings using Levenstein distance
 - [Greatest common divisor](https://github.com/szyymek/Python-scripts/blob/master/Greatest_common_divisor.py) - find greatest common divisor using Euclidean Algorithm
 - [Text align justify](https://github.com/szyymek/Python-scripts/blob/master/Text_align_justify.py) - task is to emulate text justification in monospace font. You will be given a single-lined text and the expected justification width. The longest word will never be greater than this width. Rules: Use spaces to fill in the gaps between words.Each line should contain as many words as possible.Use '\n' to separate lines.Gap between words can't differ by more than one space.Lines should end with a word not a space.'\n' is not included in the length of a line.Large gaps go first, then smaller ones ('Lorem--ipsum--dolor--sit-amet,' (2, 2, 2, 1 spaces)).Last line should not be justified, use only one space between words.Last line should not contain '\n'Strings with one word do not need gaps ('somelongword\n'). Excersise from codewars
-- [Valid parentheses](https://github.com/szyymek/Python-scripts/blob/master/Valid_Parentheses.py) - Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the string is valid, and false if it's invalid. Excersise from codewars
 - [Decode morse code](https://github.com/szyymek/Python-scripts/blob/master/Decode_the_Morse_code.py)
 - [Human Readable Time](https://github.com/szyymek/Python-scripts/blob/master/Human_Readable_Time.py) - Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS), The maximum time never exceeds 359999 -- 99:59:59. From codewars
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
@@ -25,7 +24,11 @@
 - [numpy.sort() function](https://github.com/szyymek/Python-scripts/blob/master/np-Sort.py) - generates list of random ints and using time module checks the time of executions of nupy.sort() with different kind of algorithms - mergesort, quicksort and heapsort
 
 **Recursion**
+
 - [Fibonacci number](https://github.com/szyymek/Python-scripts/blob/master/fibonacci.py)
 - [Recursive exponent](https://github.com/szyymek/Python-scripts/blob/master/recursive_exponent.py)
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
 - [Factorial](https://github.com/szyymek/Python-scripts/blob/master/factorial.py)
+
+**Strings**
+- [Valid parentheses](https://github.com/szyymek/Python-scripts/blob/master/Valid_Parentheses.py) - function that takes a string of parentheses, and determines if the order of the parentheses is valid. The function return true if the string is valid, and false if it's invalid
