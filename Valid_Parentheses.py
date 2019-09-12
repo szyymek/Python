@@ -13,3 +13,5 @@ def valid_parentheses(string):
         return True
     else:
         return False
+
+print(valid_parentheses('(())((()))((())))'))
