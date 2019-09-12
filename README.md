@@ -18,4 +18,5 @@ Excersise from codewars
 - [Human Readable Time](https://github.com/szyymek/Python-scripts/blob/master/Human_Readable_Time.py) - Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS), The maximum time never exceeds 359999 -- 99:59:59. From codewars
 
 **Sorting**
- - [numpy.sort() function](https://github.com/szyymek/Python-scripts/blob/master/np-Sort.py) - generates list of random ints and using time module checks the time of executions of nupy.sort() with different kind of algorithms - mergesort, quicksort and heapsort
+- [mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py) - implementation of mergesort in Python
+- [numpy.sort() function](https://github.com/szyymek/Python-scripts/blob/master/np-Sort.py) - generates list of random ints and using time module checks the time of executions of nupy.sort() with different kind of algorithms - mergesort, quicksort and heapsort
