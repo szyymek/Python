@@ -16,6 +16,7 @@
 - [Decode morse code](https://github.com/szyymek/Python-scripts/blob/master/Decode_the_Morse_code.py)
 - [Human Readable Time](https://github.com/szyymek/Python-scripts/blob/master/Human_Readable_Time.py) - Write a function, which takes a non-negative integer (seconds) as input and returns the time in a human-readable format (HH:MM:SS), The maximum time never exceeds 359999 -- 99:59:59. From codewars
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
+- [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
 
 **Sorting**
 
