@@ -14,4 +14,4 @@ def valid_parentheses(string):
     else:
         return False
 
-print(valid_parentheses('(())((()))((())))'))
+print(valid_parentheses('((s))(a((a)))((( )))))'))
