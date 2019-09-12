@@ -39,6 +39,7 @@
 **Working with files**
 
 - [Count words](https://github.com/szyymek/Python-scripts/blob/master/Count_words.py) - takes words from column in one excel file and counts occurrences of them in another file. Final file with numbers of occurrences is saved on disc.
+- [Supplier recomendation]()
 
 **Networking**
 
