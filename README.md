@@ -30,7 +30,7 @@
 
 - [Decode morse code](https://github.com/szyymek/Python-scripts/blob/master/Decode_the_Morse_code.py)
 
-**Math**
+**Numbers and Math**
 
 - [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
