@@ -26,3 +26,4 @@
 
 **Recursion**
 - [Fibonacci number](https://github.com/szyymek/Python-scripts/blob/master/fibonacci.py)
+- [Recursive exponent](https://github.com/szyymek/Python-scripts/blob/master/recursive_exponent.py)
