@@ -44,7 +44,7 @@
 
 **Numpy, Scipy, Sympy and math**
 
-- [Numpy](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - basic vectors, matrixes and linear algebra operations with Numpy library
+- [Numpy](https://github.com/szyymek/Python-scripts/blob/master/numpy_examples.py) - basic vectors, matrixes and linear algebra operations with Numpy library
 - [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
 - [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
