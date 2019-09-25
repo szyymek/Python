@@ -2,11 +2,16 @@ import numpy as np
 
 A = np.array([[1,-2,3],[-1,1,5],[-2,-1,1]]) #create matrix
 #print(A)
+#print(A.min(axis=0)) #minimum for each column
+#print(A.min(axis=1)) #minimum for each row
+#print(A.sum()) #sum of matrix elements
+#print(A.sum(axis=0)) #sum of each column
+#print(A.sum(axis=1)) #sum of each row
 
 B = np.array([[ 5, 10,  0]]).T #create transposed matrix
 #print(B)
 
-C = np.transpose(A) #transpose matrix
+C = np.transpose(A) #other way to transpose matrix
 #print(C)
 
 D = np.arange(0,2*np.pi,2*np.pi/100) 
@@ -22,6 +27,8 @@ E = np.arange(12).reshape(3,4)
 
 F = np.random.randint(5, 11, size=(5,3)) #print matrix(5,3) of random integers between 5 and 10
 #print(F)
+
+
 
 norma = np.linalg.norm(F) #calculate matrix norm
 #print(norma)
