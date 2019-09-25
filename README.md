@@ -1,6 +1,11 @@
 # Python Scripts
 
 
+**Working with files**
+
+- [Count words](https://github.com/szyymek/Python-scripts/blob/master/Count_words.py) - takes words from column in one excel file and counts occurrences of them in another file. Final file with numbers of occurrences is saved on disc.
+- [Supplier recomendation]()
+
 **Sorting**
 
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
@@ -35,11 +40,6 @@
 - [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
 - [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
-
-**Working with files**
-
-- [Count words](https://github.com/szyymek/Python-scripts/blob/master/Count_words.py) - takes words from column in one excel file and counts occurrences of them in another file. Final file with numbers of occurrences is saved on disc.
-- [Supplier recomendation]()
 
 **Networking**
 
