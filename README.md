@@ -7,6 +7,13 @@
 - [Simple supplier recomendation]() - takes ID of part and checks if the part was bought in the past. Returns file with supply history
 - [Supplier recomendation](https://github.com/szyymek/Python-scripts/blob/master/rekomendations.py) - takes name and part number of new part from one xls file and, using Levenstein distance, is looking for most similar names and part numbers in purchase history, then recomendes best suppliers, based on purchasing history of similar parts.
 
+**Numpy, Scipy, Sympy and math**
+
+- [Numpy](https://github.com/szyymek/Python-scripts/blob/master/numpy_examples.py) - basic vectors, matrixes and linear algebra operations with Numpy library
+- [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
+- [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
+- [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
+
 **Networking**
 
 - [Send an e-mail](https://github.com/szyymek/Python-scripts/blob/master/send_email.py) - send an e-mail from outlook mailbox, with attachment
@@ -22,7 +29,6 @@
 - [Levenstein](https://github.com/szyymek/Python-scripts/blob/master/Levenstein.py) - check similarity of 2 strings using Levenstein distance
 - [Add commas to number](https://github.com/szyymek/Python-scripts/blob/master/Add_commas.py) - task is to convert a given number into a string with commas added for easier readability. The number should be rounded to 3 decimal places and the commas should be added at intervals of three digits before the decimal point. There does not need to be a comma at the end of the number. Example - commas(-1000000.123) == "-1,000,000.123" 
 
-
 **Sorting**
 
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
@@ -37,14 +43,6 @@
 - [Factorial](https://github.com/szyymek/Python-scripts/blob/master/factorial.py)
 - [Greatest common divisor](https://github.com/szyymek/Python-scripts/blob/master/Greatest_common_divisor.py) - find greatest common divisor using Euclidean Algorithm
 
-
 **Cryptography**
 
 - [Decode morse code](https://github.com/szyymek/Python-scripts/blob/master/Decode_the_Morse_code.py)
-
-**Numpy, Scipy, Sympy and math**
-
-- [Numpy](https://github.com/szyymek/Python-scripts/blob/master/numpy_examples.py) - basic vectors, matrixes and linear algebra operations with Numpy library
-- [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
-- [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
-- [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
