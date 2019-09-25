@@ -7,6 +7,10 @@
 - [Simple supplier recomendation]() - takes ID of part and checks if the part was bought in the past. Returns file with supply history
 - [Supplier recomendation](https://github.com/szyymek/Python-scripts/blob/master/rekomendations.py) - takes name and part number of new part from one xls file and, using Levenstein distance, is looking for most similar names and part numbers in purchase history, then recomendes best suppliers, based on purchasing history of similar parts.
 
+**Networking**
+
+- [Send an e-mail](https://github.com/szyymek/Python-scripts/blob/master/send_email.py) - send an e-mail from outlook mailbox, with attachment
+
 **Sorting**
 
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
@@ -41,7 +45,3 @@
 - [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
 - [Collatz conjecture](https://github.com/szyymek/Python-scripts/blob/master/collatz.py) - checks how many steps we need to resolve Collatz conjecture and creates visualization of it on graph
 - [Sympy math](https://github.com/szyymek/Python-scripts/blob/master/Sympy_examples.py) - symbolic mathematics in python using SymPy
-
-**Networking**
-
-- [Send an e-mail](https://github.com/szyymek/Python-scripts/blob/master/send_email.py) - send an e-mail from outlook mailbox, with attachment
