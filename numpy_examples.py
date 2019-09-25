@@ -1,7 +1,6 @@
 import numpy as np
 
 A = np.array([[1,-2,3],[-1,1,5],[-2,-1,1]]) #create matrix
-
 #print(A)
 
 B = np.array([[ 5, 10,  0]]).T #create transposed matrix
