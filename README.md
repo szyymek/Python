@@ -29,6 +29,9 @@
 - [Levenstein](https://github.com/szyymek/Python-scripts/blob/master/Levenstein.py) - check similarity of 2 strings using Levenstein distance
 - [Add commas to number](https://github.com/szyymek/Python-scripts/blob/master/Add_commas.py) - task is to convert a given number into a string with commas added for easier readability. The number should be rounded to 3 decimal places and the commas should be added at intervals of three digits before the decimal point. There does not need to be a comma at the end of the number. Example - commas(-1000000.123) == "-1,000,000.123" 
 
+**Python basics**
+
+
 **Sorting**
 
 - [Mergesort](https://github.com/szyymek/Python-scripts/blob/master/merge_sort.py)
