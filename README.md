@@ -33,7 +33,7 @@
 
 - [Print formatting](https://github.com/szyymek/Python/blob/master/print_formatting.py) 
 - [Lists](https://github.com/szyymek/Python/blob/master/lists.py)
-- [Tuples]()
+- [Tuples](https://github.com/szyymek/Python/blob/master/tuples.py)
 
 **Sorting**
 
