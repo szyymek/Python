@@ -7,7 +7,7 @@
 - [Simple supplier recomendation]() - takes ID of part and checks if the part was bought in the past. Returns recomendations of suppliers based on past orders
 - [Supplier recomendation](https://github.com/szyymek/Python-scripts/blob/master/rekomendations.py) - takes name and part number of new part from one xls file and, using Levenstein distance, is looking for most similar names and part numbers in purchase history, then recomendes best suppliers, based on purchasing history of similar parts.
 
-**Numpy, Scipy, Sympy and math**
+**Math and numeric libraries**
 
 - [Numpy](https://github.com/szyymek/Python-scripts/blob/master/numpy_examples.py) - basic vectors, matrixes and linear algebra operations with Numpy library
 - [Closest pair problem](https://github.com/szyymek/Python-scripts/blob/master/closest_pair.py) - find a pair of points with the smallest distance between them, using brute force algorithm
