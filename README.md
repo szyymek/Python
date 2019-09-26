@@ -4,7 +4,7 @@
 **Working with files**
 
 - [Count words](https://github.com/szyymek/Python-scripts/blob/master/Count_words.py) - takes words from column in one excel file and counts occurrences of them in another file. Final file with numbers of occurrences is saved on disc.
-- [Simple supplier recomendation]() - takes ID of part and checks if the part was bought in the past. Returns file with supply history
+- [Simple supplier recomendation]() - takes ID of part and checks if the part was bought in the past. Returns recomendations of suppliers based on past orders
 - [Supplier recomendation](https://github.com/szyymek/Python-scripts/blob/master/rekomendations.py) - takes name and part number of new part from one xls file and, using Levenstein distance, is looking for most similar names and part numbers in purchase history, then recomendes best suppliers, based on purchasing history of similar parts.
 
 **Numpy, Scipy, Sympy and math**
